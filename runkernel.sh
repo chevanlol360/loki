@@ -1,1 +1,1 @@
-./a.out boot aboot.img boot.img smpboot.loki
+./a.out boot aboot.img boot.img zipboot.loki
